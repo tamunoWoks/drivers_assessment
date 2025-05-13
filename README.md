@@ -19,7 +19,7 @@
 
 ![da](https://github.com/tamunoWoks/drivers_assessment/blob/main/DA/da1.jfif)  
 7. This sign indicates:  
- **= dangerous goods route.**
+   **= dangerous goods route.**
 
 8. A single solid white line between driving lanes in an urban area means:  
- **= Lane changing is not permitted.**
+   **= Lane changing is not permitted.**
