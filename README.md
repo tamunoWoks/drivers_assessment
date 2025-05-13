@@ -15,7 +15,7 @@
    **= Leave extra room before returning to their lane.**
 
 6. Which statement best describes the steps for turning right at a red traffic light?  
-   **= Signal and make sure there is no sign prohibiting the turn, stop, look and right, yield the right-of-way, then proceed.**
+   **= Signal and make sure there is no sign prohibiting the turn, stop, look left and right, yield the right-of-way, then proceed.**
 
 ![da](https://github.com/tamunoWoks/drivers_assessment/blob/main/DA/da1.jfif).  
 
