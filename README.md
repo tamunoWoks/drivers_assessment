@@ -27,3 +27,6 @@
 
 9. A `parking lane` as defined in the Basic Licence Driver's Handbook is:  
    **= That portion of a primary highway between the edge of the roadway to the right of the direction of traffic and the nearest solid white line, not being the centre line, marked on the roadway.**
+
+10. Shoulder checking means:
+    **= Glancing towards the blind spot in the direction the driver intends to move.**
