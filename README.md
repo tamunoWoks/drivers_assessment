@@ -20,13 +20,13 @@
 ![da](https://github.com/tamunoWoks/drivers_assessment/blob/main/DA/da1.jfif).  
 
 7. This sign indicates:  
-   **= dangerous goods route.**
+    **= dangerous goods route.**
 
 8. A single solid white line between driving lanes in an urban area means:  
    **= Lane changing is not permitted.**
 
 9. A `parking lane` as defined in the Basic Licence Driver's Handbook is:  
-   **= That portion of a primary highway between the edge of the roadway to the right of the direction of traffic and the nearest solid white line, not being the centre line, marked on the roadway.**
+    **= That portion of a primary highway between the edge of the roadway to the right of the direction of traffic and the nearest solid white line, not being the centre line, marked on the roadway.**
 
-10. Shoulder checking means:
+10. Shoulder checking means:  
     **= Glancing towards the blind spot in the direction the driver intends to move.**
