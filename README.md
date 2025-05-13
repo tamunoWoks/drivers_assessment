@@ -14,4 +14,5 @@
 5. When passing a large truck on a two-way highway, a driver should:  
    **= Leave extra room before returning to their lane.**
 
-6. This sign indicates: ![da](https://github.com/tamunoWoks/drivers_assessment/blob/main/DA/da1.jfif) 
+6. This sign indicates:
+![da](https://github.com/tamunoWoks/drivers_assessment/blob/main/DA/da1.jfif) 
