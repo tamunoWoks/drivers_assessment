@@ -18,5 +18,8 @@
    **= Signal and make sure there is no sign prohibiting the turn, stop, look and right, yield the right-of-way, then proceed.**
 
 ![da](https://github.com/tamunoWoks/drivers_assessment/blob/main/DA/da1.jfif)  
-7. This sign indicates:
+7. This sign indicates:  
    **= dangerous goods route.**
+
+  8. A single solid white line between driving lanes in an urban area means:  
+     **= Lane changing is not permitted.**
