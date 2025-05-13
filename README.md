@@ -17,5 +17,6 @@
 6. Which statement best describes the steps for turning right at a red traffic light?  
    **= Signal and make sure there is no sign prohibiting the turn, stop, look and right, yield the right-of-way, then proceed.**
 
-8. ![da](https://github.com/tamunoWoks/drivers_assessment/blob/main/DA/da1.jfif) This sign indicates:
+![da](https://github.com/tamunoWoks/drivers_assessment/blob/main/DA/da1.jfif)  
+7. This sign indicates:
    **= dangerous goods route.**
