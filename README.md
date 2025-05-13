@@ -24,3 +24,6 @@
 
 8. A single solid white line between driving lanes in an urban area means:  
    **= Lane changing is not permitted.**
+
+9. A `parking lane` as defined in the Basic Licence Driver's Handbook is:  
+   **= That portion of a primary highway between the edge of the roadway to the right of the direction of traffic and the nearest solid white line, not being the centre line, marked on the roadway.**
