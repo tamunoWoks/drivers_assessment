@@ -13,3 +13,5 @@
 
 5. When passing a large truck on a two-way highway, a driver should:  
    **= Leave extra room before returning to their lane.**
+
+6. This sign indicates:
