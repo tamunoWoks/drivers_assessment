@@ -5,4 +5,5 @@
 2. When backing a passenger vehicle to the left, a driver should:  
    **= Look over the left shoulder with occasional glances front.**
 
-3. When approaching an intersection and facing a traffic control light that is showing a green right-turn arrow and a red light, a driver should:  
+3. When approaching an intersection and facing a traffic control light that is showing a green right-turn arrow and a red light, a driver should:
+   **= May proceed when safe, without stopping, in the direction of the arrow.**  
