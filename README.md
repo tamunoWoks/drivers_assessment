@@ -7,3 +7,5 @@
 
 3. When approaching an intersection and facing a traffic control light that is showing a green right-turn arrow and a red light, a driver should:  
   **= May proceed when safe, without stopping, in the direction of the arrow.**  
+
+4. Alberta has a demerit point system where a fully licenced (non-learner, non-probationary) driver is suspended when they accumulate:
