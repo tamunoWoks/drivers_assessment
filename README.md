@@ -37,3 +37,5 @@
     **= Uneven pavement.**
 ---
 12. A traffic-lane control light with an illuminated red **"X"** means:
+    **= Travel is not permitted in that lane.**
+---
