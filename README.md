@@ -51,3 +51,5 @@
 16. Under the Graduated Driver Licensing program, a driver will receive 2 demerits:  
     **= For having more passengers than there are seatbelts.**
 ---
+17. Using the 2-second rule to judge a safe following distance when driving:  
+    **= **
