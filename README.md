@@ -61,4 +61,5 @@
     **= Curve right.**
 ---
 19. A driver approaching a flashing red traffic light must:  
-    *8= **
+    **= Stop and proceed only when safe to do so.**
+---
