@@ -39,4 +39,5 @@
 12. A traffic-lane control light with an illuminated red **"X"** means:  
     **= Travel is not permitted in that lane.**
 ---
-13. Does a parent have the right to withdraw a previously given "parental consent" for someone under 18years of age with respect to an operator's license?
+13. Does a parent have the right to withdraw a previously given "parental consent" for someone under 18years of age with respect to an operator's license?  
+    **= Yes, provided the person is still under the age of 18 and is not self-supporting or married.**
