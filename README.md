@@ -52,4 +52,5 @@
     **= For having more passengers than there are seatbelts.**
 ---
 17. Using the 2-second rule to judge a safe following distance when driving:  
-    **= **
+    **= Is accurate at any speed.**
+---
