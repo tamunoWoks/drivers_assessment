@@ -60,3 +60,5 @@
 18. This sign indicates:  
     **= Curve right.**
 ---
+19. A driver approaching a flashing red traffic light must:  
+    *8= **
