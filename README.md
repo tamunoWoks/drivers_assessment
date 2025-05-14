@@ -63,3 +63,4 @@
 19. A driver approaching a flashing red traffic light must:  
     **= Stop and proceed only when safe to do so.**
 ---
+![yield sign ahead](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/yield_sign_ahead.jfif)
