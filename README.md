@@ -32,5 +32,6 @@
     **= Glancing towards the blind spot in the direction the driver intends to move.**
 
 ![uneven pavement](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/uneven_pavement.jfif)  
+
 11. This sign indicates:  
     **= Uneven pavement.**
