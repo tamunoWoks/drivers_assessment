@@ -56,3 +56,6 @@
     **= Is accurate at any speed.**
 ---
 ![curve right](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/curve_right.jfif)  
+
+18. This sign indicates:  
+    **= **
