@@ -42,5 +42,6 @@
 13. Does a parent have the right to withdraw a previously given "parental consent" for someone under 18years of age with respect to an operator's license?  
     **= Yes, provided the person is still under the age of 18 and is not self-supporting or married.**
 ---
-14. When approaching a Yield sign, you must:
-    **= **
+14. When approaching a Yield sign, you must:  
+    **= Yield the right-of-way to traffic not facing the sign and all pedestrians in the intersection.**
+---
