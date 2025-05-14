@@ -43,5 +43,5 @@
     **= Yes, provided the person is still under the age of 18 and is not self-supporting or married.**
 ---
 14. When approaching a Yield sign, you must:  
-    **= Yield the right-of-way to traffic not facing the sign and all pedestrians in the intersection.**
+    **= Yield the right-of-way to traffic not facing the sign and all pedestrians in the intersection.**  
 ---
