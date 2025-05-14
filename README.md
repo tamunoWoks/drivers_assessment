@@ -65,6 +65,8 @@
 ---
 ![yield sign ahead](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/yield_sign_ahead.jfif)
 
-20. This sign indicates: 
+20. This sign indicates:  
     **= Warning, yield sign ahead.**
 ---
+21. According to the law of Alberts, it is the driver's responsibility to ensure that passengers under what age are properly restrained in the vehicle?  
+    **= **
