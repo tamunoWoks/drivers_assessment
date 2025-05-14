@@ -30,3 +30,5 @@
 
 10. Shoulder checking means:  
     **= Glancing towards the blind spot in the direction the driver intends to move.**
+
+11. This sign indicates:
