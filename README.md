@@ -45,3 +45,5 @@
 14. When approaching a Yield sign, you must:  
     **= Yield the right-of-way to traffic not facing the sign and all pedestrians in the intersection.**  
 ---
+15. The term **"over-driving"** your headlights at night mean:
+    **= **
