@@ -49,4 +49,5 @@
     **= The driver is travelling at a speed which would not permit them to see an object in time to stop.**
 ---
 16. Under the Graduated Driver Licensing program, a driver will receive 2 demerits:  
-    **= **
+    **= For having more passengers than there are seatbelts.**
+---
