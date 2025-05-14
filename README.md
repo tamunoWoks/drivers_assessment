@@ -36,4 +36,4 @@
 11. This sign indicates:  
     **= Uneven pavement.**
 ---
-12. A traffic-lane control light with an illuminated red `**X**` means:
+12. A traffic-lane control light with an illuminated red **`X`** means:
