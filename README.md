@@ -99,4 +99,6 @@
 29. When a driver is stopping behind another vehicle in traffic:  
     **= Allow sufficient space to move into another lane without reversing.**  
 ---
-30. If another vehicle is following too close, what should a driver do?
+30. If another vehicle is following too close, what should a driver do?  
+    **= Slow down gradually and encourage the other vehicle to pass.**  
+---
