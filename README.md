@@ -77,4 +77,8 @@
 23. Who is responsible and legally obligated to report any medical condition, change in health, or physical disability that may affect a driver's ability to drive?  
     **= The Driver.**
 --- 
-24. ![narrows left](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/narrows_left.jfif)
+![narrows left](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/narrows_left.jfif)
+
+24. This sign indicates:  
+    **= Road narrows, left.**
+---
