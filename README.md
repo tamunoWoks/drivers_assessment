@@ -82,3 +82,4 @@
 24. This sign indicates:  
     **= Road narrows, left.**
 ---
+![bump](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/bump.jfif)
