@@ -93,3 +93,4 @@
 27. A large **"X"** painted on the pavement indicates:  
     **= Railway crossing ahead.**  
 ---
+28. A driver is required to report all collisions to the police when persons have been injured or killed, or when combined damage to all vehicles or property is more than:
