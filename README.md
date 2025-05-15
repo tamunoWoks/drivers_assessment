@@ -105,3 +105,6 @@
 31. When recovering from a skid, a driver should:  
     **= Steer in the direction the driver wants the front of the vehicle to go.**  
 ---
+32. A "slow-moving vehicle" sign must be dispalyed on the rear of any vehicle that normally travels at speeds less than:  
+    **= 40km/h.**  
+---
