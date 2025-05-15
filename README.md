@@ -102,3 +102,6 @@
 30. If another vehicle is following too close, what should a driver do?  
     **= Slow down gradually and encourage the other vehicle to pass.**  
 ---
+31. When recovering from a skid, a driver should:  
+    **= Steer in the direction the driver wants the front of the vehicle to go.**  
+---
