@@ -71,3 +71,5 @@
 21. According to the law of Alberta, it is the driver's responsibility to ensure that passengers under what age are properly restrained in the vehicle?  
     **= 16 years.**
 ---
+22. When parallel parking, the vehicle's wheel closest to the curb must be withing what maximum distance?
+    **= **
