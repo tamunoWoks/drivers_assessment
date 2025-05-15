@@ -96,5 +96,6 @@
 28. A driver is required to report all collisions to the police when persons have been injured or killed, or when combined damage to all vehicles or property is more than:  
     **= $1000.**  
 ---
-29. When a driver is stopping behind another vehicle in traffic:
-    **= **
+29. When a driver is stopping behind another vehicle in traffic:  
+    **= Allow sufficient space to move into another lane without reversing.**  
+---
