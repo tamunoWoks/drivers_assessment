@@ -87,3 +87,5 @@
 25. This sign indicates:  
     **= Bump.**  
 ---
+26. Under the Graduated Licensing program, what is the minimum amount of time that a person must serve as a probationary Class 5 driver?
+    **= **
