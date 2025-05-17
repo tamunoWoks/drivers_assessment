@@ -24,3 +24,6 @@
 40. When a driver's vehicle is approached by an emergency vehicle sounding a siren, from any direction on a two-way road, the driver must:  
     **= Drive as close as possible to the right curb or edge of the road and stop.**  
 ---
+41. The recommended braking procedure to bring a vehicle to a normal, smooth stop is:  
+    **= Apply brake pressure, ease off slightly just before the vehicle stops, then re-apply sufficient pressure to stop.**  
+---
