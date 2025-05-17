@@ -10,3 +10,8 @@
 36. Is a driver allowed to exceed the speed limit when passing another vehicle?  
     **= No, it is never permitted.**  
 ---
+![school area](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/school_area.jfif)
+
+37. This sign indicates:  
+    **= School area.**  
+---
