@@ -7,3 +7,6 @@
 35. A road test will be refused by a driver examiner if:  
     **= The vehicle is not mechanically safe.**  
 ---
+36. Is a driver allowed to exceed the speed limit when passing another vehicle?  
+    **= No, it is never permitted.**  
+---
