@@ -27,3 +27,6 @@
 41. The recommended braking procedure to bring a vehicle to a normal, smooth stop is:  
     **= Apply brake pressure, ease off slightly just before the vehicle stops, then re-apply sufficient pressure to stop.**  
 ---
+42. In Alberta, the law requires that seat belts must be worn:   
+    **= Properly at all times.**  
+---
