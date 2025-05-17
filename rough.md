@@ -15,3 +15,6 @@
 37. This sign indicates:  
     **= School area.**  
 ---
+38. The speed limit in a construction zone must be obeyed:  
+    **= At all times.**  
+---
