@@ -18,6 +18,9 @@
 38. The speed limit in a construction zone must be obeyed:  
     **= At all times.**  
 ---
-39. In the vehicle that does not have anti-lock brakes, threshold braking refers to:  
+39. In a vehicle that does not have anti-lock brakes, threshold braking refers to:  
     **= Applying an even force to the point just before the wheels lock, and easing off slightly if the wheels lock.**
+---
+40. When a driver's vehicle is approached by an emergency vehicle sounding a siren, from any direction on a two-way road, the driver must:  
+    **= Drive as close as possible to the right curb or edge of the road and stop.**  
 ---
