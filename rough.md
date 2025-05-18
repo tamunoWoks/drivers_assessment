@@ -29,3 +29,4 @@
 51. This sign indicates:  
     **= Lane ends, loss of right lane.**
 ---
+52. Under the Graduated Driver Licensing program, a learner with a Class 7 licence is not permitted to drive a vehicle between the hours of:
