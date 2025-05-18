@@ -10,7 +10,7 @@
   **= May proceed when safe, without stopping, in the direction of the arrow.**  
 ---
 4. Alberta has a demerit point system where a fully licenced (non-learner, non-probationary) driver is suspended when they accumulate:  
-   **= 15points.**
+   **= 15 points.**
 ---
 5. When passing a large truck on a two-way highway, a driver should:  
    **= Leave extra room before returning to their lane.**
