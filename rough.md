@@ -32,5 +32,6 @@
 52. Under the Graduated Driver Licensing program, a learner with a Class 7 licence is not permitted to drive a vehicle between the hours of:  
     **= Midnight and 5:00 A.M.**  
 ---
-53. What does a flashing yellow traffic light mean?
-    **= **
+53. What does a flashing yellow traffic light mean?  
+    **= The traffic light will turn red.**
+---
