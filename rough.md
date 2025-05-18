@@ -26,5 +26,6 @@
 ---
 ![right lane ends](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/right_lane_ends.jfif)
 
-51. This sign indicates:
-    **= **
+51. This sign indicates:  
+    **= Lane ends, loss of right lane.**
+---
