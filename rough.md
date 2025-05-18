@@ -9,3 +9,4 @@
 45. A deceleration lane is:   
     **= A lane where vehicles reduce speed when exiting a highway.**  
 ---
+46. When turning left from a two-way road onto a one-way road, what lane should the vehicle enter?  
