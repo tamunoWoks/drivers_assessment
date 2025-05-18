@@ -12,3 +12,4 @@
 46. When turning left from a two-way road onto a one-way road, what lane should the vehicle enter?  
     **= The lane nearest the curb on the left side of the one-way road.**  
 ---
+47. When two vehicles approach an uncontrolled **"T"** intersection at right angles to each other at approximately the same time:  
