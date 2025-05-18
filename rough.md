@@ -21,3 +21,5 @@
 49. Which statement describes the steps required to reverse in a straight line?  
     **= Place the left hand at the top of the steering wheel and look over the right shoulder through the rear window.**  
 ---
+50. An acceleration lane is:
+    **= **
