@@ -6,5 +6,6 @@
 44. A driver entering a traffic circle:  
     **= Must yield to vehicles in the traffic circle.**
 ---
-45. A deceleration lane is:
-    **= **
+45. A deceleration lane is:   
+    **= A lane where vehicles reduce speed when exiting a highway.**  
+---
