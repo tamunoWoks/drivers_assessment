@@ -3,3 +3,5 @@
 43. This sign indicates:  
     **= Do not pass.**  
 ---
+44. A driver entering a traffic circle:
+    **= **
