@@ -18,4 +18,6 @@
 48. Unless otherwise permitted, what lane must a driver be in to turn left from a one-way road?  
     **= The left lane nearest the left curb.**  
 ---
-49. which statement describes the steps required to reverse in a straight line?  
+49. Which statement describes the steps required to reverse in a straight line?  
+    **= Place the left hand at the top of the steering wheel and look over the right shoulder through the rear window.**  
+---
