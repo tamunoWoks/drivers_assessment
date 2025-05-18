@@ -16,3 +16,5 @@
     **= The vehicle on the left must yield the right-of-way.**  
 ---
 48. Unless otherwise permitted, what lane must a driver be in to turn left from a one-way road?  
+    **= The left lane nearest the left curb.**  
+---
