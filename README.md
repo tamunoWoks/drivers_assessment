@@ -71,7 +71,7 @@
 21. According to the law of Alberta, it is the driver's responsibility to ensure that passengers under what age are properly restrained in the vehicle?  
     **= 16 years.**
 ---
-22. When parallel parking, the vehicle's wheel closest to the curb must be withing what maximum distance?  
+22. When parallel parking, the vehicle's wheel closest to the curb must be within what maximum distance?  
     **= 50 centimeteres from the curb.**
 ---
 23. Who is responsible and legally obligated to report any medical condition, change in health, or physical disability that may affect a driver's ability to drive?  
