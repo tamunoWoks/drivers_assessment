@@ -88,7 +88,7 @@
     **= Bump.**  
 ---
 26. Under the Graduated Driver Licensing program, what is the minimum amount of time that a person must serve as a probationary Class 5 driver?  
-    **= 2 years**  
+    **= 2 years.**  
 ---
 27. A large **"X"** painted on the pavement indicates:  
     **= Railway crossing ahead.**  
