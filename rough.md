@@ -31,5 +31,6 @@
 62. Before leaving a parallel parking space on the right side of a road:  
     **= Shoulder check to the left.**
 ---
-63. When approaching the top of a hill on a two-lane highway:
-    **= **
+63. When approaching the top of a hill on a two-lane highway:  
+    **= Stay to the right portion of the lane.**
+---
