@@ -3,5 +3,6 @@
 ---
 ![Pedestrian crosswalk](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/pedestrian_crossway.jfif)  
 
-55. This sign indicates:
-    **= **
+55. This sign indicates:  
+    **= Pedestrian crosswalk**
+---
