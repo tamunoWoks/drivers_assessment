@@ -9,3 +9,4 @@
 56. When driving in the right lane on a highway, what should a driver do if another vehicle attempts to merge from an acceleration lane on the right?  
     **= Move into the left lane if it is safe to do so, or be prepared to adjust speed.**
 ---
+57. Which direction should a vehicle's front wheels be turned when parked uphill on a two-way road with a curb?  
