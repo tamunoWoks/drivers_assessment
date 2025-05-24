@@ -15,5 +15,6 @@
 58. When approaching the rear of a stopped school bus that has its alternately flashing red lights activated, a driver must:  
     **= Stop behind the bus and wait until the alternating red lights stop flashing.**
 ---
-59. When travelling in urban areas, drivers should scan the road approaximately:  
-    **= **
+59. When travelling in urban areas, drivers should scan the road approaximately:    
+    **= 12 to 15 seconds ahead.**  
+---
