@@ -25,5 +25,6 @@
 ---
 ![Winding road](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/winding_road_ahead.jfif)
 
-61. This sign indicates:
-    **= **
+61. This sign indicates:  
+    **= Winding road ahead.**
+---
