@@ -6,4 +6,6 @@
 55. This sign indicates:  
     **= Pedestrian crosswalk**
 ---
-56. When driving in the right lane on a highway, what should a driver do if another vehicle attempts to merge from an acceleration lane on the right?
+56. When driving in the right lane on a highway, what should a driver do if another vehicle attempts to merge from an acceleration lane on the right?  
+    **= Move into the left lane if it is safe to do so, or be prepared to adjust speed.**
+---
