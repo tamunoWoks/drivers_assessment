@@ -28,3 +28,5 @@
 61. This sign indicates:  
     **= Winding road ahead.**
 ---
+62. Before leaving a parallel parking space on the right side of a road:
+    **= **
