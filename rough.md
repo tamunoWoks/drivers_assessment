@@ -18,3 +18,4 @@
 59. When travelling in urban areas, drivers should scan the road approaximately:    
     **= 12 to 15 seconds ahead.**  
 ---
+![T intersection](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/T_intersection.jfif)
