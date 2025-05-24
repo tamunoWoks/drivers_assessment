@@ -12,5 +12,6 @@
 57. Which direction should a vehicle's front wheels be turned when parked uphill on a two-way road with a curb?  
     **= To the left.**
 ---
-58. When approaching the rear of a stopped school bus that has its alternately flashing red lights activated, a driver must:
-    **= **
+58. When approaching the rear of a stopped school bus that has its alternately flashing red lights activated, a driver must:  
+    **= Stop behind the bus and wait until the alternating red lights stop flashing.**
+---
