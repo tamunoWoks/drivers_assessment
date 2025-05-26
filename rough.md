@@ -12,3 +12,5 @@
 68. Parking in a space reserved for persons with disabilities is permitted:  
     **= When the vehicle has a proper identifying placard or licence plate.**
 ---
+69. At what minimum distance must headlights be dimmed at night when approaching another vehicle from behind?
+    **= **
