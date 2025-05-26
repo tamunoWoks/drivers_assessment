@@ -11,5 +11,6 @@
 72. Under the Graduated Driver Licensing Program, a learner with a Class 7 operator's license is suspended when they accumulate:  
     **= 15 demerits.**
 ---
-73. Speed limit signs indicate:
-    **=**
+73. Speed limit signs indicate:  
+    **= The maximum speed permitted when conditions are favourable.**
+---
