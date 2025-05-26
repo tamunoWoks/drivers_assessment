@@ -5,5 +5,6 @@
 ---
 ![two way](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/two_way_traffic.jfif)
 
-71. This sign indicates?
-    **= **
+71. This sign indicates?  
+    **= Two-way traffic.**
+--- 
