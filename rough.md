@@ -7,4 +7,5 @@
     **= Driver error.**
 ---
 67. How close can a driver legally park a vehicle to a Stop sign?
-    **= **
+    **= 5 metres.**
+---
