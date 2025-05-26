@@ -9,4 +9,5 @@
     **= Two-way traffic.**
 --- 
 72. Under the Graduated Driver Licensing Program, a learner with a Class 7 operator's license is suspended when they accumulate:
-    **=**
+    **= 15 demerits.**
+---
