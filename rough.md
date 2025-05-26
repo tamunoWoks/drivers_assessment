@@ -9,5 +9,6 @@
 67. How close can a driver legally park a vehicle to a Stop sign?  
     **= 5 metres.**
 ---
-68. Parking in a space reserved for persons with disabilities is permitted:
-    **= **
+68. Parking in a space reserved for persons with disabilities is permitted:  
+    **= When the vehicle has a proper identifying placard or licence plate.**
+---
