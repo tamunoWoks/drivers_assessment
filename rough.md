@@ -19,5 +19,6 @@
 ---
 ![double lane left turn](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/dual_turns.jfif)
 
-75. This sign indicates:
-    **=**
+75. This sign indicates:   
+    **= Double lane left turn.**
+---
