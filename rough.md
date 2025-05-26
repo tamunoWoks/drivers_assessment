@@ -4,3 +4,6 @@
     **= Only when indicated by pavement markings or traffic signs.**
 ---
 ![two way](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/two_way_traffic.jfif)
+
+71. This sign indicates?
+    **= **
