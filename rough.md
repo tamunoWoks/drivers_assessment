@@ -14,3 +14,5 @@
 73. Speed limit signs indicate:  
     **= The maximum speed permitted when conditions are favourable.**
 ---
+74. An **"uncontrolled intersection"**:
+    **=**
