@@ -37,6 +37,8 @@
 11. This sign indicates:  
     **= Uneven pavement.**
 ---
+![Travel not permitted](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/travel_not_permitted.jfif)
+
 12. A traffic-lane control light with an illuminated red **"X"** means:  
     **= Travel is not permitted in that lane.**
 ---
