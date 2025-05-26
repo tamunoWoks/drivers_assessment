@@ -3,3 +3,4 @@
 70. When are dual turns permitted at an intersection?  
     **= Only when indicated by pavement markings or traffic signs.**
 ---
+![two way](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/two_way_traffic.jfif)
