@@ -7,4 +7,5 @@
 ![Railway crossing](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/railway_crossing.jfif)
 
 78. This sign indicates:  
-    **= **
+    **= Railway crossing.**
+---
