@@ -4,3 +4,4 @@
 77. In reduced visibility due to fog, smoke or snow, use the:  
     **= Headlights on low beam.**
 ---
+![Railway crossing](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/railway_crossing.jfif)
