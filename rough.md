@@ -9,5 +9,6 @@
 78. This sign indicates:  
     **= Railway crossing.**
 ---
-79. Is a driver allowed to turn right at at red traffic control light?
-    **= **
+79. Is a driver allowed to turn right at at red traffic control light?  
+    **= Yes, if the driver reduces speed and there is no traffic or pedestrian in the intersction,  and no sign that prohibits that turn.**
+---
