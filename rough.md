@@ -6,3 +6,5 @@
 87. This sign indicates:  
     **= Straight through or right turn.**
 ---
+88. A vehicle exiting a parking lot onto a roadway:
+    **= **
