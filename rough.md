@@ -9,5 +9,6 @@
 83. This sign indicates:  
     **= Traffic control signal advance warning.**
 ---
-84. When a "PASSING LANE AHEAD" sign is posted, the driver of a slower moving vehicle should:  
-    **= **
+84. When a **"PASSING LANE AHEAD"** sign is posted, the driver of a slower moving vehicle should:  
+    **= Move into the right lane when safe.**
+---
