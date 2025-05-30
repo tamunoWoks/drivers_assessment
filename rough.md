@@ -5,3 +5,6 @@
     **= Level with the top of the ears.**
 ---
 ![advance warning](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/advance_warning.jfif)
+
+83. This sign indicates:  
+    **= **
