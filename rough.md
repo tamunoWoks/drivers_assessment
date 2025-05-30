@@ -12,3 +12,5 @@
 84. When a **"PASSING LANE AHEAD"** sign is posted, the driver of a slower moving vehicle should:  
     **= Move into the right lane when safe.**
 ---
+85. When approaching the rear of a school bus that is displaying alternating flashing amber lights, a driver should:  
+    **= **
