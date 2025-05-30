@@ -9,3 +9,5 @@
 78. This sign indicates:  
     **= Railway crossing.**
 ---
+79. Is a driver allowed to turn right at at red traffic control light?
+    **= **
