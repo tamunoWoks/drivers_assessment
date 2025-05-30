@@ -15,4 +15,5 @@
 ![Lane Reserved](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/reserved_lane.jpg)
 
 80. This sign indicates:  
-81. **= **
+    **= Lane is reserved for use by specific vehicles.**
+---
