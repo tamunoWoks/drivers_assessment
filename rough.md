@@ -13,3 +13,6 @@
     **= Yes, if the driver reduces speed and there is no traffic or pedestrian in the intersction,  and no sign that prohibits that turn.**
 ---
 ![Lane Reserved](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/reserved_lane.jpg)
+
+80. This sign indicates:  
+81. **= **
