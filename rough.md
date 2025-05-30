@@ -12,3 +12,5 @@
 89. When approaching a railway crossing that has the flashing red light and bell activated:  
     **= Stop at least 5 metres from the nearest rail until the train has passed.**
 ---
+90. The recommended method for travelling through a curve on a highway is:
+    **= **
