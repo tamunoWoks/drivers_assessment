@@ -4,4 +4,5 @@
 ![straight or right](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/straight_or_right.jfif)
 
 87. This sign indicates:  
-    **= **
+    **= Straight through or right turn.**
+---
