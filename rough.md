@@ -9,3 +9,5 @@
 88. A vehicle exiting a parking lot onto a roadway:  
     **= Must come to a complete stop.**
 ---
+89. When approaching a railway crossing that has the flashing red light and bell activated:  
+    **= **
