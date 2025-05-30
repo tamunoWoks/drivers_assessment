@@ -2,4 +2,5 @@
     **= Must not pass the stopped vehicle. It is illegal.**
 ---
 82. When a head retaraint is raised to the proper position, the center of the head restraint is:  
-    **= **
+    **= Level with the top of the ears.**
+---
