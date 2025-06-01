@@ -312,3 +312,43 @@
 90. The recommended method for travelling through a curve on a highway is:  
     **= Reduce speed before curve, stay in the lane and gently accelerate after entering the curve.**
 ---
+![slow moving vehicle](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/slow_moving_vehicle.jfif)
+
+91. This sign indicates:  
+    **= Slow moving vehicle.**
+---
+92. Why is it not safe to pass a loaded log-haul truck that is turning?  
+    **= A danger zone exists as the overhang of the logs from the tail end of the truck could block all the lanes on a highway during a turn.**
+---
+![school bus stop](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/school_bus_stop_ahead.jfif)
+
+93. This sign indicates:  
+    **= School bus stop ahead.**
+---
+94. When encountering a funeral procession that is crossing an intersection:  
+    **= Yield the right-of-way and do not break the procession.**
+---
+95. If the vehicle's right tires travel off the paved portion of the roadway:  
+    **= Accelerate slightly, then turn thr steering wheel sharply to return to the paved portion of the roadway.**
+---
+![school crosswalk ahead](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/school_crosswalk_ahead.jfif)
+
+96. This sign indicates:  
+    **= School crosswalk ahead.**
+---
+97. When completing an angle park, the vehicle's front wheel must be within what maximum distance from the nearest curb?  
+    **= 50 cm.**
+---
+98. In an urban area, when a pedestrian is standing at a crosswalk with their arm raised at approximately right angles to their body and pointing to the opposite curb, what does this mean?  
+    **= Drivers must stop and yield to pedestrian.**
+---
+![dead end](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/dead_end.jfif)
+
+99. This sign indicates:  
+     **= Dead end.**
+---
+![divided highways](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/divided_highway.jfif)
+
+100. This sign indicates:  
+     **= Divided highway begins.**
+---
