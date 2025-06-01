@@ -7,3 +7,6 @@
 103. At 9:00 A.M. on a school day, what is the maximum speed permitted in a school zone in a rural area, unless otherwise posted?  
      **= 30 km/h.**
 ---
+104. On a two-lane highway, when passing other vehicles travelling in the same direction, a driver:  
+     **= Should pass on the left when safe.**
+---
