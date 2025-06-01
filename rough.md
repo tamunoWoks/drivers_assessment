@@ -10,3 +10,8 @@
 104. On a two-lane highway, when passing other vehicles travelling in the same direction, a driver:  
      **= Should pass on the left when safe.**
 ---
+![hospital](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/hospital.png)
+
+105. This sign indicates:  
+     **= Hospital services.**
+---
