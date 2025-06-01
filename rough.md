@@ -6,3 +6,6 @@
 107. This sign indicates:  
      **= Construction sign, people working ahead.**
 ---
+108. If a driver is being followed by a vehicle that is attempting to pass on a two-way road, the driver should:  
+     **= Stay in the lane and move to the right portion of the lane.**
+---
