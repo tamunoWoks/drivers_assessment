@@ -14,3 +14,14 @@
 94. When encountering a funeral procession that is crossing an intersection:  
     **= Yield the right-of-way and do not break the procession.**
 ---
+95. If the vehicle's right tires travel off the paved portion of the roadway:  
+    **= Accelerate slightly, then turn thr steering wheel sharply to return to the paved portion of the roadway.**
+---
+![school crosswalk ahead](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/school_area.jfif)
+
+96. This sign indicates:  
+    **= School crosswalk ahead.**
+---
+97. When completing an angle park, the vehicle's front wheel must be within what maximum distance from the nearest curb?  
+    **= 50 cm.**
+---
