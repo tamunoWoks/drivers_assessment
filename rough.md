@@ -11,3 +11,6 @@
 93. This sign indicates:  
     **= School bus stop ahead.**
 ---
+94. When encountering a funeral procession that is crossing an intersection:  
+    **= Yield the right-of-way and do not break the procession.**
+---
