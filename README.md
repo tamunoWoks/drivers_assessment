@@ -114,7 +114,7 @@
     **= Must not cross the path of an approaching vehicle unless it is safe.**
 ---
 34. A **"Weave Zone"** is best described as:  
-    **= A place on a highway where the entrance and exit lanes are close together, and vehicles that are slowing to exit the highway must drive between vehcles that are acclerating to enter the highway.**  
+    **= A place on a highway where the entrance and exit lanes are close together, and vehicles that are slowing to exit the highway must drive between vehicles that are acclerating to enter the highway.**  
 --- 
 35. A road test will be refused by a driver examiner if:  
     **= The vehicle is not mechanically safe.**  
@@ -196,7 +196,7 @@
 58. When approaching the rear of a stopped school bus that has its alternately flashing red lights activated, a driver must:  
     **= Stop behind the bus and wait until the alternating red lights stop flashing.**
 ---
-59. When travelling in urban areas, drivers should scan the road approaximately:    
+59. When travelling in urban areas, drivers should scan the road approximately:    
     **= 12 to 15 seconds ahead.**  
 ---
 ![T intersection](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/T_intersection.jfif)
@@ -252,7 +252,7 @@
     **= The maximum speed permitted when conditions are favourable.**
 ---
 74. An **"uncontrolled intersection"**:  
-    **= Has no traffic control signal lights ot traffic signs.**
+    **= Has no traffic control signal lights or traffic signs.**
 ---
 ![double lane left turn](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/dual_turns.jfif)
 
@@ -329,7 +329,7 @@
     **= Yield the right-of-way and do not break the procession.**
 ---
 95. If the vehicle's right tires travel off the paved portion of the roadway:  
-    **= Accelerate slightly, then turn thr steering wheel sharply to return to the paved portion of the roadway.**
+    **= Accelerate slightly, then turn the steering wheel sharply to return to the paved portion of the roadway.**
 ---
 ![school crosswalk ahead](https://github.com/tamunoWoks/drivers_assessment/blob/main/images/school_crosswalk_ahead.jfif)
 
